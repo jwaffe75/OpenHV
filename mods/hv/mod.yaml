@@ -50,6 +50,7 @@ FileSystem: DefaultFileSystem
 		hv|bits/sprites/ships
 		hv|bits/sprites/terrain
 		hv|bits/sprites/vehicles
+		hv|bits/sprites/buildings/test
 
 MapFolders:
 	hv|maps: System
@@ -67,6 +68,7 @@ Rules:
 	hv|rules/weapons.yaml
 	hv|rules/bots.yaml
 	hv|rules/buildings.yaml
+	hv|rules/buildings-hack.yaml
 	hv|rules/world.yaml
 	hv|rules/props.yaml
 	hv|rules/defaults.yaml
@@ -82,6 +84,7 @@ Sequences:
 	hv|sequences/vehicles.yaml
 	hv|sequences/aircraft.yaml
 	hv|sequences/buildings.yaml
+	hv|sequences/buildings-hack.yaml
 	hv|sequences/props.yaml
 	hv|sequences/weapons.yaml
 	hv|sequences/terrain.yaml
