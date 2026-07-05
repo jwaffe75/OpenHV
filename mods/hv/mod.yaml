@@ -68,7 +68,7 @@ Rules:
 	hv|rules/weapons.yaml
 	hv|rules/bots.yaml
 	hv|rules/buildings.yaml
-	hv|rules/buildings-hack.yaml
+	hv|rules/buildings-testbuilding.yaml
 	hv|rules/world.yaml
 	hv|rules/props.yaml
 	hv|rules/defaults.yaml
@@ -84,7 +84,7 @@ Sequences:
 	hv|sequences/vehicles.yaml
 	hv|sequences/aircraft.yaml
 	hv|sequences/buildings.yaml
-	hv|sequences/buildings-hack.yaml
+	hv|sequences/buildings-testbuilding.yaml
 	hv|sequences/props.yaml
 	hv|sequences/weapons.yaml
 	hv|sequences/terrain.yaml
@@ -185,6 +185,7 @@ FluentMessages:
 	hv|fluent/hotkeys.ftl
 	common|fluent/rules.ftl
 	hv|fluent/rules.ftl
+	hv|fluent/rules-testbuilding.ftl
 
 Include: translations.yaml
 
